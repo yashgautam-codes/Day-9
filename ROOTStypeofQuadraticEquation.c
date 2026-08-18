@@ -1,3 +1,5 @@
+// Q17.Write a program to find the roots of a quadratic quation and categorize them.
+
 #include <stdio.h>
 int main()
 {
